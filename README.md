@@ -8,7 +8,7 @@ Sorry if it's buggy or not working yet, I'm learning to create repositories and 
 
 		{
 		"url": "https://github.com/Ayanakoji/Al-theia",
-		"repo_name": "ProjectAlétheia",
+		"repo_name": "ProjectAletheia",
 	 	"repo_path": "./repositories/Al-theia",
 		"should_update": true,
 		"should_read": true
